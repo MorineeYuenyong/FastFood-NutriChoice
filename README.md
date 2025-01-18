@@ -32,4 +32,4 @@ The entire analysis will be conducted using **Python**.
 
 The insights and recommendations generated through this project will enable consumers to make informed and healthier dietary choices when consuming fast food.
 
-**For more details about this project, please refer to the document available at the following link: [Link](https://drive.google.com/file/d/1IHub54BbytKejP1W4zYU8NAf3BpPrWt3/view?usp=sharing) **
+**For more details about this project, please refer to the document available at the following link: [Link](https://drive.google.com/file/d/1IHub54BbytKejP1W4zYU8NAf3BpPrWt3/view?usp=sharing)**
