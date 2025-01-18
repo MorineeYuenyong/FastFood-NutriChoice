@@ -31,3 +31,5 @@ The entire analysis will be conducted using **Python**.
    These classifications will be based on the levels of saturated fat and cholesterol in the fast food items.
 
 The insights and recommendations generated through this project will enable consumers to make informed and healthier dietary choices when consuming fast food.
+
+**For more details about this project, please refer to the document available at the following link: [Link](https://drive.google.com/file/d/1IHub54BbytKejP1W4zYU8NAf3BpPrWt3/view?usp=sharing) **
